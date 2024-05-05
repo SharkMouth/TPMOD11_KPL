@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KalkulatorAljabar/1.0.0": {
+        "dependencies": {
+          "AlgebraLibraries": "1.0.0"
+        },
+        "runtime": {
+          "KalkulatorAljabar.dll": {}
+        }
+      },
+      "AlgebraLibraries/1.0.0": {
+        "runtime": {
+          "AlgebraLibraries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KalkulatorAljabar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlgebraLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
